@@ -29,4 +29,4 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
           branch: corexin.github.io # The branch the action should deploy to.
-          folder: / # The folder the action should deploy.
+          folder: . # The folder the action should deploy.
